@@ -1,0 +1,6 @@
+Antigua-Ciudad 40
+Ciudad-Antigua 40
+Flores-Antigua 20
+Antigua-Flores 20
+Flores-Antigua 30
+Flores-Ciudad 10
